@@ -16,10 +16,6 @@ from Class_hw_10.Page_Your_information import Your_information
 
 
 
-
-@allure.severity
-
-
 @allure.severity (allure.severity_level.CRITICAL)
 @allure.feature("Задание № 1 из ДЗ № 7, добавление описания")
 @allure.description("Тестирование формы данных")
