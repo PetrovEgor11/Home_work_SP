@@ -24,7 +24,6 @@
 - [Генератор файла .gitignore](https://www.toptal.com/developers/gitignore)
 
 ### Библиотеки:
- - Requests
- - Pytest
- - Selenium
- 
+ - pip install Requests
+ - pip install Pytest
+ - pip install Selenium
